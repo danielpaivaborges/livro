@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-14T15:08:26.244-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>GIT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">GIT</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Git_logo (1).png" imagestyleclass="Default" scale="32.93%" width="395" height="165" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Body Text">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</para>
+    <para styleclass="Body Text">Os arquivos no Git sempre se encontram em algum estado: untracked, unmodified, modified e stage. Entender esses estados nos ajuda a saber melhor qual o momento certo de usar cada comando.</para>
+    <para styleclass="Body Text" style="text-align:center;"><image src="gitciclo.png" imagestyleclass="Default" scale="100.00%" figurelistinclude="0"></image></para>
+    <para styleclass="Body Text">Arquivos marcados como untracked são arquivos não monitorados pelo Git. Os arquivos que acabaram de ser criados sempre estarão com esse estado. </para>
+    <para styleclass="Code Example"><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">$ touch arq01</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">$ git status arq01</text></para>
+    <para styleclass="Code Example"></para>
+    <para styleclass="Body Text">Arquivos não monitorados: (utilize git add &lt;arquivo&gt; para incluir o que será submetido)</para>
+    <para styleclass="Body Text"><br/>Para que o Git comece a versionar o arquivo precisamos mudá-lo para stage. Note que o Git sempre vai te dar a dica do que fazer quando executar o git status.</para>
+    <para styleclass="Body Text">Os arquivos marcados como stage são os arquivos novos ou modificados que serão salvos no próximo commit. O que o comando anterior git add faz é adicionar os arquivos de untracked e modified para stage.</para>
+    <para styleclass="Body Text">Precisamos agora dar o comando git commit para salvar a nova versão do repositório:</para>
+    <para styleclass="Code Example"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">$ git commit -a -m ‘Meu primeiro commit’</text></para>
+    <para styleclass="Code Example"></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Quando realizamos um commit, os arquivos saem de stage para unmodified, isso significa que, na linha do tempo, seu arquivo está igual ao estado salvo no último commit.</text></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">No commit, salvamos o estado do repositório e o Git passa a informar das mudanças do último commit (HEAD) em diante.</text></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Modified - São os arquivos já monitorados pelo Git que sofreram alguma alteração desde o último commit.</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Heading1">DEPOIS DE CRIADO O REPOSITÓRIO LOCAL PODEMOS LINKAR ELE NO REPOSITÓRIO REMOTO, NO CASO NO GITHUB</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">EXEMPLO: </text></para>
+    <para styleclass="Code Example">git remote add origin <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://github.com/danielpaivaborges/testandogit.git</link></para>
+    <para styleclass="Code Example">git branch -M main</para>
+    <para styleclass="Code Example">git push -u origin main</para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Podemos agora criar novas ramificações, branchs, para trabalhar utilizando o comando abaixo:</text></para>
+    <para styleclass="Code Example"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">git checkout -b &quot;nome do branch&quot;</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Para ver os branchs disponiveis basta digitar git branch.</text></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Para alternar entre os branchs basta digitar git checkout &apos;nome do branch&apos;</text></para>
+    <para styleclass="Body Text"><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">Para inserir as alterações de um branch no outro basta digitar git merge &apos;nome do branch&apos;</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

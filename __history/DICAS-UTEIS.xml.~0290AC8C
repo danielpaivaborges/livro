@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-16T09:26:12.726-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>DICAS UTEIS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">DICAS UTEIS</para>
+    </header>
+    <para styleclass="Heading2">1 - NUMERAR ITENS DENTRO DA PÁGINA:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Code Example"><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">body {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;counter-reset: incremento;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">p {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;counter-increment: incremento;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">p::before {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;content: counter(incremento) &quot; - &quot;;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text></para>
+    <para styleclass="Normal">O resultado será este:</para>
+    <para styleclass="Normal"><image src="clip0001.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
