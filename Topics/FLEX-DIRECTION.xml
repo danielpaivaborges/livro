@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-23T21:10:19.297-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FLEX DIRECTION</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FLEX DIRECTION</para>
+    </header>
+    <para styleclass="Normal">FLEX DIRECTION é um sistema unidirecional que vai organizar os flex itens. Para utilizar é necessário setar a propriedade flex-direction no CSS.</para>
+    <para styleclass="Normal">São quatro as opções, row, column, row-reverse e column-reverse.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

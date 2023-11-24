@@ -13,12 +13,6 @@
     </topicref>
     <topicref type="topic" id="452538487211700" build="ALL" modified="2023-11-23T20:53:24.695Z" icon="0" href="FLEXBOX">
       <caption translate="true">FLEXBOX</caption>
-      <topicref type="topic" id="452539673454768" build="ALL" modified="2023-11-23T21:00:04.814Z" icon="0" href="FLEX-ITEMS">
-        <caption translate="true">FLEX ITEMS</caption>
-      </topicref>
-      <topicref type="topic" id="452537475106830" build="ALL" modified="2023-11-23T21:06:14.851Z" icon="0" href="FLEX-DIRECTION">
-        <caption translate="true">FLEX DIRECTION</caption>
-      </topicref>
     </topicref>
   </topicref>
 </map>
