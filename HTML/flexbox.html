@@ -1,13 +1,13 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-   <title>GIT E GITHUB &gt; MANUAL GIT E GIT HUB</title>
+   <title>CSS &gt; FLEXBOX</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />   
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
    <meta name="generator" content="Help &amp; Manual" />
    <meta name="keywords" content="" />
-   <meta name="description" content="Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer t" />
+   <meta name="description" content="Para utilizar flexbox precisamos ter uma div ou algo assim que possa conter todo o conteúdo para trabalhar, e este elemento deverá ser display:flex." />
    <link type="text/css" href="default.css" rel="stylesheet" />
    <link type="text/css" href="custom.css" rel="stylesheet" />
 
@@ -79,7 +79,7 @@
    <script type="text/javascript" src="helpman_topicinit.js"></script>
 
    <script type="text/javascript">
-     HMSyncTOC("index.html", "git.html");
+     HMSyncTOC("index.html", "flexbox.html");
    </script>
    <script type="text/javascript" src="highlight.js"></script>
    <script type="text/javascript">
@@ -89,26 +89,26 @@
 <body>
 
 
-<div id="printheader"><h1 class="p_Heading1" style="page-break-after: avoid;"><span class="f_Heading1">MANUAL GIT E GIT HUB</span></h1>
+<div id="printheader"><h1 class="p_Heading1" style="page-break-after: avoid;"><span class="f_Heading1">FLEXBOX</span></h1>
 </div>
 <div id="idheader">
 <div id="idheaderbg">
 <table style="width:100%;border:none;margin:0px;" cellspacing="0" cellpadding="0"> 
   <tr>
     <td class="topichead" style="text-align:left; vertical-align:bottom">
-      <p class="sync-toc">&lt;&lt; <a rel="nofollow" href="index.html?git.html" target="_top">Click to Display Table of Contents</a> &gt;&gt;</p>
+      <p class="sync-toc">&lt;&lt; <a rel="nofollow" href="index.html?flexbox.html" target="_top">Click to Display Table of Contents</a> &gt;&gt;</p>
       <p class="crumbs"><b>Navigation:</b>&nbsp;
       
-      GIT E GITHUB&nbsp;&gt;</p>
+      CSS&nbsp;&gt;</p>
    
-      <h1 class="p_Heading1" style="page-break-after: avoid;"><span class="f_Heading1">MANUAL GIT E GIT HUB</span></h1>
+      <h1 class="p_Heading1" style="page-break-after: avoid;"><span class="f_Heading1">FLEXBOX</span></h1>
 
     </td>
     <td class="topichead" id="idnav">
       
-      <span class="hmbtnprev"></span>
+      <a href="dicas-uteis.html" title="Previous Topic"><span class="hmbtnprev"></span></a>
       <a href="git.html" title="Parent Chapter"><span class="hmbtntop"></span></a>
-      <a href="dicas-uteis.html" title="Next Topic"><span class="hmbtnnext"></span></a>
+      <a href="flex-items.html" title="Next Topic"><span class="hmbtnnext"></span></a>
       
     </td>
   </tr>  
@@ -121,43 +121,14 @@
 <!--[if lt IE 7]><div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div><![endif]-->
 
 <!--ZOOMRESTART-->
-<p class="p_Normal" style="text-align: center;"><img alt="Git_logo (1)" width="395" height="165" style="margin:0 auto 0 auto;width:395px;height:165px;border:none" src="hmfile_hash_92408fca.png"/></p>
-<p class="p_Normal" style="text-align: justify;">&nbsp;</p>
-<p class="p_BodyText"><span class="f_BodyText">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Os arquivos no Git sempre se encontram em algum estado: untracked, unmodified, modified e stage. Entender esses estados nos ajuda a saber melhor qual o momento certo de usar cada comando.</span></p>
-<p class="p_BodyText" style="text-align: center;"><img alt="gitciclo" width="516" height="328" style="margin:0 auto 0 auto;width:516px;height:328px;border:none" src="gitciclo.png"/></p>
-<p class="p_BodyText"><span class="f_BodyText">Arquivos marcados como untracked são arquivos não monitorados pelo Git. Os arquivos que acabaram de ser criados sempre estarão com esse estado. </span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">&nbsp;</span><br />
-<span class="f_CodeExample">$&nbsp;touch&nbsp;arq01</span><br />
-<span class="f_CodeExample">$&nbsp;git&nbsp;status&nbsp;arq01</span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">&nbsp;</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Arquivos não monitorados: (utilize git add &lt;arquivo&gt; para incluir o que será submetido)</span></p>
-<p class="p_BodyText"><span class="f_BodyText">&nbsp;</span><br />
-<span class="f_BodyText">Para que o Git comece a versionar o arquivo precisamos mudá-lo para stage. Note que o Git sempre vai te dar a dica do que fazer quando executar o git status.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Os arquivos marcados como stage são os arquivos novos ou modificados que serão salvos no próximo commit. O que o comando anterior git add faz é adicionar os arquivos de untracked e modified para stage.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Precisamos agora dar o comando git commit para salvar a nova versão do repositório:</span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">$&nbsp;git&nbsp;commit&nbsp;-a&nbsp;-m&nbsp;‘Meu&nbsp;primeiro&nbsp;commit’</span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">&nbsp;</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Quando realizamos um commit, os arquivos saem de stage para unmodified, isso significa que, na linha do tempo, seu arquivo está igual ao estado salvo no último commit.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">No commit, salvamos o estado do repositório e o Git passa a informar das mudanças do último commit (HEAD) em diante.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Modified - São os arquivos já monitorados pelo Git que sofreram alguma alteração desde o último commit.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">&nbsp;</span></p>
-<h1 class="p_Heading1" style="page-break-after: avoid;"><span class="f_Heading1">DEPOIS DE CRIADO O REPOSITÓRIO LOCAL PODEMOS LINKAR ELE NO REPOSITÓRIO REMOTO, NO CASO NO GITHUB</span></h1>
+<p class="p_Normal">Para utilizar flexbox precisamos ter uma div ou algo assim que possa conter todo o conteúdo para trabalhar, e este elemento deverá ser display:flex.</p>
+<p class="p_Normal">Quando um elemento é definido como flex algumas propriedades CSS surgem para este elemento.</p>
+<p class="p_Normal">Com relação ao flex container existe uma dica interessante, se colocarmos uma borda nele ele ficará assim:</p>
 <p class="p_Normal">&nbsp;</p>
-<p class="p_BodyText"><span class="f_BodyText">EXEMPLO: </span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">git&nbsp;remote&nbsp;add&nbsp;origin&nbsp;<a href="https://github.com/danielpaivaborges/testandogit.git" target="_blank" class="weblink">https://github.com/danielpaivaborges/testandogit.git</a></span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">git&nbsp;branch&nbsp;-M&nbsp;main</span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">git&nbsp;push&nbsp;-u&nbsp;origin&nbsp;main</span></p>
-<p class="p_BodyText"><span class="f_BodyText">&nbsp;</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Podemos agora criar novas ramificações, branchs, para trabalhar utilizando o comando abaixo:</span></p>
-<p class="p_CodeExample"><span class="f_CodeExample">git&nbsp;checkout&nbsp;-b&nbsp;&quot;nome&nbsp;do&nbsp;branch&quot;</span></p>
-<p class="p_BodyText"><span class="f_BodyText">&nbsp;</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Para ver os branchs disponiveis basta digitar git branch.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Para alternar entre os branchs basta digitar git checkout 'nome do branch'</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Para inserir as alterações de um branch no outro basta digitar git merge 'nome do branch'</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Depois é so digitar git push para enviar as alterações para o github de forma definitva.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">Para ver as alterações &nbsp;basta dar o comando git log.</span></p>
-<p class="p_BodyText"><span class="f_BodyText">&nbsp;</span></p>
+<p class="p_Normal"><img alt="clip0002" width="699" height="143" style="margin:0;width:699px;height:143px;border:none" src="clip0002.png"/></p>
+<p class="p_Normal"><span class="f_ImageCaption">Se quisermos eliminar o espaço em branco basta mudar o display para inline-flex e assim teremos o resultado abaixo:</span></p>
+<p class="p_Normal"><img alt="clip0003" width="327" height="160" style="margin:0;width:327px;height:160px;border:none" src="clip0003.png"/></p>
+<p class="p_Normal">&nbsp;</p>
 
 <!--ZOOMSTOP-->
 </div></div>

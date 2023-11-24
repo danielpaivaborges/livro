@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2023-11-24T07:27:48.700-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2023-11-23T21:48:36.389-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>FLEXBOX</title>
   <body>
     <header>
@@ -12,7 +12,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="clip0002.png" imagestyleclass="Default" scale="55.50%" width="699" height="143" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"><text styleclass="Image Caption">Se quisermos eliminar o espaço em branco basta mudar o display para inline-flex e assim teremos o resultado abaixo:</text></para>
-    <para styleclass="Normal"><image src="clip0003.png" imagestyleclass="Default" scale="58.80%" width="300" height="147" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"><image src="clip0003.png" imagestyleclass="Default" scale="64.00%" width="327" height="160" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>
