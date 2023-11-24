@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-24T13:56:03.914-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FLEX-FLOW</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FLEX-FLOW</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"><image src="clip0025.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">FLEX FLOW é um shorthand (atalho) para os comandos flex direction e flex wrap, recomenda-se sempre que possível utilizar esta forma. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0026.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+  </body>
+</topic>

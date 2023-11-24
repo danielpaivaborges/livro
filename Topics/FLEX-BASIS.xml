@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-24T14:30:51.620-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FLEX BASIS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FLEX BASIS</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0058.png" imagestyleclass="Default" scale="146.99%" width="487" height="122" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">FLEX BASIS indica o tamanho inicial do flex antes da distribuição do espaço restante. Quando definimos flex-grow: 1 e possuimos auto nos basis o valor &#160;restante para ocupar o container é distribuido ao redor do conteúdo do item.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0059.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0060.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0061.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0062.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

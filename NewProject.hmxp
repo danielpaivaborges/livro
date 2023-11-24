@@ -24,7 +24,7 @@
           <export-task name="Publish as PDF" format="PDF">
             <task-config-group name="settings">
               <task-config-value name="outputfile">NewProject.pdf</task-config-value>
-              <task-config-value name="template">$(HMSYS)Templates\PDF\Classic_manual.mnl</task-config-value>
+              <task-config-value name="template">Classic_manual.mnl</task-config-value>
               <task-config-value name="highlighthotspots">0</task-config-value>
               <task-config-value name="exportcomments">0</task-config-value>
               <task-config-value name="exportcommentsdate">36526</task-config-value>
@@ -148,11 +148,12 @@
       <config-value name="make3status">*</config-value>
       <config-value name="make4include">PDF</config-value>
       <config-value name="make4status">*</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
-      <config-value name="outlinesnumbered">0</config-value>
+      <config-value name="outlinesnumbered">1</config-value>
       <config-value name="createhotspots">1</config-value>
       <config-value name="insertseealso">1</config-value>
       <config-value name="insertseealsostyle">0</config-value>
@@ -172,10 +173,15 @@
       <config-value name="copyright" translate="true">&lt;%COPYRIGHT%&gt;</config-value>
       <config-value name="copyrightpublicdomain">0</config-value>
       <config-value name="outputfile">NewProject.pdf</config-value>
-      <config-value name="template">$(HMSYS)Templates\PDF\Classic_manual.mnl</config-value>
+      <config-value name="template">Classic_manual.mnl</config-value>
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
       <config-value name="exportcommentsdate">36526</config-value>
+      <config-value name="outlinesnumberedlinks">0</config-value>
+      <config-value name="linkunderline">1</config-value>
+      <config-value name="displaydoctitle">0</config-value>
+      <config-value name="subject" translate="true">MANUAL FRONTEND</config-value>
+      <config-value name="author" translate="true">DANIEL PAIVA</config-value>
     </config-group>
     <config-group name="html">
       <config-value name="defaultext">.html</config-value>
@@ -276,6 +282,16 @@
           <config-value name="lastexport">3</config-value>
         </config-group>
       </config-group>
+    </config-group>
+    <config-group name="print">
+      <config-value name="tocname">Table of Contents</config-value>
+      <config-value name="include">PRINT</config-value>
+      <config-value name="template">Classic_manual.mnl</config-value>
+      <config-value name="colortext">0</config-value>
+      <config-value name="insertseealso">0</config-value>
+      <config-value name="insertseealsostyle">-1</config-value>
+      <config-value name="printoptions">0</config-value>
+      <config-value name="printoptionscutmarks">0</config-value>
     </config-group>
     <variables/>
     <helpcontext-numbers/>

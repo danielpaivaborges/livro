@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-24T13:54:50.618-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ALIGN-CONTENT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ALIGN-CONTENT</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0048.png" imagestyleclass="Default" scale="70.46%" width="458" height="606" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">ALIGN CONTENT alinha as linhas do container em relação ao eixo vertical. Esta propriedade só funciona se existir mais de uma linha de flex-itens, para isso o flex-wrap precisa ser wrap, além disso o efeito apenas será visualizado caso o container seja maior que a soma das linhas dos itens. Isso significa que se não definirmos height para o container a propriedade não influencia no layout.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0049.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0050.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0051.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0052.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0053.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0054.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+  </body>
+</topic>

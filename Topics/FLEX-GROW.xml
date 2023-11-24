@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-24T14:26:34.953-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FLEX-GROW</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FLEX-GROW</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0055.png" imagestyleclass="Default" scale="90.91%" width="595" height="260" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">FLEX-GROW define a habilidade do item flex crescer. Por padrão esse valor é zero, assim os flex ocupam um tamanho máximo relacionado ao conteúdo interno deles ou ao widht definido.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0056.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0057.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2023-11-24T07:27:48.700-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2023-11-24T13:31:48.044-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>FLEXBOX</title>
   <body>
     <header>
       <para styleclass="Heading1">FLEXBOX</para>
     </header>
-    <para styleclass="Normal">Para utilizar flexbox precisamos ter uma div ou algo assim que possa conter todo o conteúdo para trabalhar, e este elemento deverá ser display:flex.</para>
+    <para styleclass="Normal" style="page-break-before:always;">Para utilizar flexbox precisamos ter uma div ou algo assim que possa conter todo o conteúdo para trabalhar, e este elemento deverá ser display:flex.</para>
     <para styleclass="Normal">Quando um elemento é definido como flex algumas propriedades CSS surgem para este elemento.</para>
     <para styleclass="Normal">Com relação ao flex container existe uma dica interessante, se colocarmos uma borda nele ele ficará assim:</para>
     <para styleclass="Normal"></para>

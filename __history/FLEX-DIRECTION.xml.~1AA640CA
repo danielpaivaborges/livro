@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-24T13:35:25.003-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FLEX DIRECTION</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FLEX DIRECTION</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"><image src="clip0020.png" imagestyleclass="Default" scale="60.48%" width="437" height="228" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">FLEX DIRECTION define a direção dos itens flex, por padrão a direção é row (linha), por isso quando definimos o container para flex imediatamente os itens se alinham automaticamente em formato de linha, um do lado do outro. Geralmente utilizamos a mudança de row para column (coluna) quando definimos media queries para utilização do site no celular ou tablet.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0021.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0022.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+  </body>
+</topic>
