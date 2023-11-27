@@ -16,7 +16,7 @@
           <export-task name="Publish as HTM" format="HTM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">.\HTML\index.html</task-config-value>
-              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_WebHelp.hmskin</task-config-value>
+              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\HM9-Help-Webhelp-Responsive.hmskin.hmskin</task-config-value>
               <task-config-value name="make3include">HTML</task-config-value>
               <task-config-value name="make3status">*</task-config-value>
             </task-config-group>
@@ -24,7 +24,7 @@
           <export-task name="Publish as PDF" format="PDF">
             <task-config-group name="settings">
               <task-config-value name="outputfile">NewProject.pdf</task-config-value>
-              <task-config-value name="template">$(HMSYS)Templates\PDF\Classic_manual.mnl</task-config-value>
+              <task-config-value name="template">Classic_manual.mnl</task-config-value>
               <task-config-value name="highlighthotspots">0</task-config-value>
               <task-config-value name="exportcomments">0</task-config-value>
               <task-config-value name="exportcommentsdate">36526</task-config-value>
@@ -60,7 +60,7 @@
         <style-set media="screen" type="text">font-family:Verdana; font-size:10pt; letter-spacing:-1px;</style-set>
       </styleclass>
       <styleclass name="Code Example" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">white-space:nowrap;</style-set>
+        <style-set media="screen" type="para">background-color:#ccffcc; white-space:nowrap;</style-set>
         <style-set media="screen" type="text">font-family:'Courier New'; font-size:10pt;</style-set>
       </styleclass>
       <styleclass name="Comment" parentclass="Normal" shortcut="0">
@@ -68,7 +68,7 @@
       </styleclass>
       <styleclass name="Heading1" parentclass="Normal" nextclass="Normal" shortcut="119">
         <style-set media="screen" type="para">page-break-after:avoid;</style-set>
-        <style-set media="screen" type="text">font-size:16pt; font-weight:bold; color:#ffffff;</style-set>
+        <style-set media="screen" type="text">font-size:16pt; font-weight:bold; color:#ff6600;</style-set>
       </styleclass>
       <styleclass name="Heading1 Black" parentclass="Heading1" nextclass="Normal" shortcut="0">
         <style-set media="screen" type="text">color:#000000;</style-set>
@@ -153,7 +153,7 @@
     <config-group name="pdf">
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
-      <config-value name="outlinesnumbered">0</config-value>
+      <config-value name="outlinesnumbered">1</config-value>
       <config-value name="createhotspots">1</config-value>
       <config-value name="insertseealso">1</config-value>
       <config-value name="insertseealsostyle">0</config-value>
@@ -173,10 +173,15 @@
       <config-value name="copyright" translate="true">&lt;%COPYRIGHT%&gt;</config-value>
       <config-value name="copyrightpublicdomain">0</config-value>
       <config-value name="outputfile">NewProject.pdf</config-value>
-      <config-value name="template">$(HMSYS)Templates\PDF\Classic_manual.mnl</config-value>
+      <config-value name="template">Classic_manual.mnl</config-value>
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
       <config-value name="exportcommentsdate">36526</config-value>
+      <config-value name="outlinesnumberedlinks">0</config-value>
+      <config-value name="linkunderline">1</config-value>
+      <config-value name="displaydoctitle">0</config-value>
+      <config-value name="subject" translate="true">MANUAL FRONTEND</config-value>
+      <config-value name="author" translate="true">DANIEL PAIVA</config-value>
     </config-group>
     <config-group name="html">
       <config-value name="defaultext">.html</config-value>
@@ -250,7 +255,7 @@
 </body>
 </html>]]></config-value>
       </config-group>
-      <config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_WebHelp.hmskin</config-value>
+      <config-value name="skin">$(HMSYS)Templates\HTML Skins\HM9-Help-Webhelp-Responsive.hmskin.hmskin</config-value>
       <config-value name="outputfile">.\HTML\index.html</config-value>
     </config-group>
     <config-group name="chm">
@@ -274,18 +279,26 @@
     <config-group name="user">
       <config-group name="danie">
         <config-group name="project">
-          <config-value name="lastexport">4</config-value>
+          <config-value name="lastexport">3</config-value>
         </config-group>
       </config-group>
+    </config-group>
+    <config-group name="print">
+      <config-value name="tocname">Table of Contents</config-value>
+      <config-value name="include">PRINT</config-value>
+      <config-value name="template">Classic_manual.mnl</config-value>
+      <config-value name="colortext">0</config-value>
+      <config-value name="insertseealso">0</config-value>
+      <config-value name="insertseealsostyle">-1</config-value>
+      <config-value name="printoptions">0</config-value>
+      <config-value name="printoptionscutmarks">0</config-value>
     </config-group>
     <variables/>
     <helpcontext-numbers/>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="Stylesheet-for-Style-Test.xml"/>
-    </file>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>

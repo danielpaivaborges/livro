@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-27T12:54:25.640-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>CUSTOM PROPERTIES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">CUSTOM PROPERTIES</para>
+    </header>
+    <para styleclass="Normal">Para criar uma propriedade customizada (variável) em CSS é necessário fazer o seguinte:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Code Example"><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">:root {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;--mainFont : &apos;Krub&apos;, sans-serif;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">body {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;font-family: var(--mainFont);</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text></para>
+  </body>
+</topic>
