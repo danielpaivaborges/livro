@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-28T09:04:58.012-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>DICAS UTEIS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">DICAS UTEIS</para>
+    </header>
+    <para styleclass="Heading2" style="page-break-before:always;">UTILIZANDO O COUNTER PARA NUMERAR ITENS DENTRO DA PÁGINA:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Code Example"><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">body {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;counter-reset: incremento;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">p {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;counter-increment: incremento;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">p::before {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;content: counter(incremento) &quot; - &quot;;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text></para>
+    <para styleclass="Normal">O resultado será este:</para>
+    <para styleclass="Normal"><image src="clip0001.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading2">SNIPET MUITO UTIL PARA RESOLVER O PROBLEMA DE BOX SIZING:</para>
+    <para styleclass="Code Example"><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">html {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;box-sizing: border-box;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text><br/><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">*, *:before, *:after {</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;"> &#160; &#160;box-sizing: inherit;</text><br/><text style="font-weight:normal; font-style:normal; text-decoration:none; color:#000000;">}</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading2">PODEMOS TAMBÉM UTILIZAR UM RESET &#160;OU UM NORMALIZER, ABAIXO SEGUEM LINKS PARA AMBAS AS SOLUÇÕES:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://meyerweb.com/eric/tools/css/reset/</link></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://necolas.github.io/normalize.css/</link>&#32;</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Com a evolução dos navegadores atuais é menos recomendável a utilização destes recursos.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

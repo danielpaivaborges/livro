@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-28T09:42:02.044-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>COMBINADORES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">COMBINADORES</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0083.png" imagestyleclass="Default" scale="68.29%" width="813" height="476" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">Os combinadores atribuem a relação entre os seletores CSS, eles podem ser:</para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">Combinador Descendente (espaço);</li>
+    </list>
+    <para styleclass="Normal"><image src="clip0084.png" imagestyleclass="Default" scale="59.53%" width="420" height="153" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">Combinador Filho (&gt;);</li>
+    </list>
+    <para styleclass="Normal"><image src="clip0085.png" imagestyleclass="Default" scale="80.42%" width="445" height="193" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">Combinador Irmão adjacente (+);</li>
+    </list>
+    <para styleclass="Normal"><image src="clip0087.png" imagestyleclass="Default" scale="95.97%" width="445" height="143" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">Combinador Adjacente Geral (~);</li>
+    </list>
+    <para styleclass="Normal"><image src="clip0086.png" imagestyleclass="Default" scale="94.16%" width="444" height="129" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

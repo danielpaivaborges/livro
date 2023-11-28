@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-28T14:44:58.359-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>GRID</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">GRID</para>
+    </header>
+    <para styleclass="Normal"><image src="clip0090.png" imagestyleclass="Default" scale="89.22%" width="684" height="389" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">O grid é um sistema de layout composto por linhas e colunas.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Para usar o grid o primeiro passo é envolver o código em um container e então atribuir a propriedade <text style="font-weight:bold;">display:grid </text>ou<text style="font-weight:bold;"> display:inline-grid </text>a ele.</para>
+    <para styleclass="Normal">A distancia entre as colunas é chamada de <text style="font-weight:bold;">gap</text> e a distancia entre as linhas é chamado de <text style="font-weight:bold;">track</text>.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Dentro de cada trilha há células de grade. Uma célula é a interseção de uma linha da grade e uma coluna da grade. &#160;Podemos usar as propriedades <text style="font-weight:bold;">grid-template-columns e grid-template-rows</text> para</para>
+    <para styleclass="Normal">traçar nossa grade. Estas propriedades especificam, como uma lista de faixas separada por espaço, a linha nomes e funções de dimensionamento de trilhas da grade. A propriedade grid-template-colunas</para>
+    <para styleclass="Normal">especifica a lista de trilhas para as colunas da grade e grid-template-rows especifica a lista de trilhas para as linhas da grade. </para>
+    <para styleclass="Normal">A função <text style="font-weight:bold;">repeat()</text> é utilizada para estabelecermos quantas linhas ou colunas queremos para o nosso layout. Esta função possui dois parâmetros, o primeiro é a <text style="font-weight:bold;">quantidade</text> e o segundo é o <text style="font-weight:bold;">tamanho</text>.</para>
+    <para styleclass="Normal">A função <text style="font-weight:bold;">minmax()</text> estabelece o tamanho minimo e o máximo que cada célula terá e pode ser utilizada dentro da função <text style="font-weight:bold;">repeat().</text></para>
+    <para styleclass="Normal">A palavra chave <text style="font-weight:bold;">auto</text> pode ser usada para o valor mínimo ou máximo dentro da função. Quando a palavra-chave auto é usada para o valor máximo, ela é tratada da mesma forma como a palavra-chave de conteúdo máximo. </para>
+    <para styleclass="Normal">As dimensões da linha ou coluna serão iguais à quantidade de espaço que o conteúdo da linha ou coluna requer. Um caso de uso comum para a palavra-chave auto é criando layouts que incluem cabeçalhos e rodapés fixos. </para>
+    <para styleclass="Normal">Quando atribuímos <text style="font-weight:bold;">overflow</text> a área para a qual <text style="font-weight:bold;">auto</text> foi definido, a área diminui e aumenta com o tamanho da janela. </para>
+  </body>
+</topic>
