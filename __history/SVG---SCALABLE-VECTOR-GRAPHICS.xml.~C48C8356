@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-11-29T14:33:03.399-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>SVG - SCALABLE VECTOR GRAPHICS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">SVG - SCALABLE VECTOR GRAPHICS</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0091.png" imagestyleclass="Default" scale="74.05%" width="275" height="331" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">O SVG é um formato de arquivo usado para a criação de logotipos, ícones e elementos interativos. Além de proporcionar altíssima qualidade de imagem, é extremamente escalável se compararmos com outros formatos, como o PNG, o que torna o SVG ideal para manter a aparência dos sites em diversos tamanhos de tela.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">Um SVG é escrito em XML e trata de vetores em um plano cartesiano. Este tipo de recurso é mais utilizado para logotipos, icones e loaders. </text>Uma das vantagens do SVG é que é possível embutir animações na própria imagem. Um SVG é desenhando dentro de uma VIEWPORT ela é definida pelas propriedades Width e Height.</para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
