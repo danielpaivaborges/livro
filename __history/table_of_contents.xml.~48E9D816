@@ -8,6 +8,18 @@
   </topicref>
   <topicref type="topic" id="452443750492211" build="ALL" modified="2023-11-16T09:22:47.214Z" icon="0">
     <caption translate="true">CSS</caption>
+    <topicref type="topic" id="452586916698222" build="ALL" modified="2023-11-28T13:52:35.870Z" icon="1" href="GRID">
+      <caption translate="true">GRID</caption>
+    </topicref>
+    <topicref type="topic" id="452585694497290" build="ALL" modified="2023-11-28T10:27:54.722Z" icon="11" href="PSEUDO-CLASS-E-PSEUDO-ELEMENT">
+      <caption translate="true">PSEUDO CLASS E PSEUDO ELEMENT</caption>
+    </topicref>
+    <topicref type="topic" id="452583358395199" build="ALL" modified="2023-11-28T09:42:23.656Z" icon="11" href="COMBINADORES">
+      <caption translate="true">COMBINADORES</caption>
+    </topicref>
+    <topicref type="topic" id="452573988729963" build="ALL" modified="2023-11-27T12:54:29.786Z" icon="11" href="CUSTOM-PROPERTIES">
+      <caption translate="true">CUSTOM PROPERTIES</caption>
+    </topicref>
     <topicref type="topic" id="452465223604008" build="ALL" modified="2023-11-24T13:32:53.872Z" icon="11" href="DICAS-UTEIS">
       <caption translate="true">DICAS UTEIS</caption>
     </topicref>
@@ -36,6 +48,9 @@
       </topicref>
       <topicref type="topic" id="452546942159642" build="ALL" modified="2023-11-24T13:10:09.969Z" icon="1" href="FLEX-ITEM">
         <caption translate="true">FLEX ITEM</caption>
+        <topicref type="topic" id="45252692260932" build="ALL" modified="2023-11-24T14:41:08.454Z" icon="11" href="ALIGN-SELF">
+          <caption translate="true">ALIGN-SELF</caption>
+        </topicref>
         <topicref type="topic" id="452547192047853" build="ALL" modified="2023-11-24T14:33:44.263Z" icon="11" href="FLEX">
           <caption translate="true">FLEX</caption>
         </topicref>
@@ -51,10 +66,10 @@
         <topicref type="topic" id="452547710978579" build="ALL" modified="2023-11-24T14:38:05.519Z" icon="11" href="ORDER">
           <caption translate="true">ORDER</caption>
         </topicref>
-        <topicref type="topic" id="45252692260932" build="ALL" modified="2023-11-24T14:38:20.072Z" icon="0" href="ALIGN-SELF">
-          <caption translate="true">ALIGN-SELF</caption>
-        </topicref>
       </topicref>
     </topicref>
+  </topicref>
+  <topicref type="topic" id="452595316772974" build="ALL" modified="2023-11-29T14:23:40.847Z" icon="1" href="SVG---SCALABLE-VECTOR-GRAPHICS">
+    <caption translate="true">SVG - SCALABLE VECTOR GRAPHICS</caption>
   </topicref>
 </map>

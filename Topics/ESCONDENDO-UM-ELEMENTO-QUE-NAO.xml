@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-01T10:32:01.271-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ESCONDENDO UM ELEMENTO QUE NÃO CARREGOU</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ESCONDENDO UM ELEMENTO QUE NÃO CARREGOU</para>
+    </header>
+    <para styleclass="Normal">É POSSÍVEL ESCONDER UM ELEMENTO QUE POSSA DAR ALGUM PROBLEMA, COMO UMA IMAGEM QUE NÃO CARREGOU, USANDO UM TRUQUE EM JAVASCRIPT, CONFORME O EXEMPLO ABAIXO:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0097.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
