@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-13T13:57:41.164-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>TIPOS DE DADOS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">TIPOS DE DADOS</para>
+    </header>
+    <para styleclass="Normal"><text style="color:#f79646;">char</text> - PARA UM NUMERO PEQUENO DE CARACTERES</para>
+    <para styleclass="Normal"><text style="color:#f79646;">varchar</text> - PARA UM NUMERO MAIOR DE CARACTERES</para>
+    <para styleclass="Normal"><text style="color:#f79646;">enum</text> - PARA UM CONJUNTO ESPECÍFICO DE VALORES PADRÕES</para>
+    <para styleclass="Normal"><text style="color:#f79646;">set</text> -PARA UM CONJUNTO ESPECÍFICO DE VALORES PADRÕES, PODE ESCOLHER MAIS DE UM, NESTE CASO</para>
+    <para styleclass="Normal"><text style="color:#f79646;">text</text> - Stores up to 65,535 characters, which is approximately 64KB</para>
+    <para styleclass="Normal"><text style="color:#f79646;">mediumtext</text> - Stores up to 16,777,215 characters, approximately 16MB</para>
+    <para styleclass="Normal"><text style="color:#f79646;">longtext</text> - Stores up to 4,294,967,295 characters, approximately 4GB</para>
+    <para styleclass="Normal">OS FORMATOS ABAIXO SÃO PARA DADOS BINÁRIOS:</para>
+    <para styleclass="Normal"><text style="color:#f79646;">tinyblob</text> - Stores up to 255 bytes</para>
+    <para styleclass="Normal"><text style="color:#f79646;">blob</text> - Stores up to 65,535 bytes, approximately 64KB</para>
+    <para styleclass="Normal"><text style="color:#f79646;">mediumblob</text> - Stores up to 16,777,215 bytes, approximately 16MB</para>
+    <para styleclass="Normal"><text style="color:#f79646;">longblob</text> - Stores up to 4,294,967,295 bytes, approximately 4GB</para>
+  </body>
+</topic>

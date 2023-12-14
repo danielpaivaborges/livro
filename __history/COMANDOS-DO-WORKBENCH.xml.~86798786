@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-13T13:11:27.778-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>COMANDOS DO WORKBENCH</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">COMANDOS DO WORKBENCH</para>
+    </header>
+    <para styleclass="Normal">- PARA MOSTRAR OS BANCOS DE DADOS QUE ESTÃO DISPONÍVEIS NO SERVER BASTA DIGITAR O COMANDO <text style="color:#df6a0a;">show databases;</text></para>
+    <para styleclass="Normal">- PARA CRIAR UM NOVO BANCO DE DADOS USAMOS O COMANDO<text style="color:#df6a0a;"> create database nomedobanco;</text></para>
+    <para styleclass="Normal">- PARA APAGAR UM BANCO DE DADOS USAMOS O COMANDO <text style="color:#df6a0a;">drop database nomedobanco;</text></para>
+    <para styleclass="Normal">- PARA ALTERAR UMA COLUNA BASTA USAR O COMANDO ALTER CONFORME O EXEMPLO ABAIXO:</para>
+    <para styleclass="Normal"><text style="color:#df6a0a;">alter table cliente add column cep varchar(50);</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

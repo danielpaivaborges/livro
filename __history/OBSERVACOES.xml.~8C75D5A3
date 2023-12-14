@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-13T13:37:35.364-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>OBSERVAÇÕES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">OBSERVAÇÕES</para>
+    </header>
+    <para styleclass="Normal">- CHAVES PRIMÁRIAS NÃO PODEM SER NULAS.</para>
+    <para styleclass="Normal">- PARA ADICIONAR COMENTÁRIOS NO CÓDIGO BASTA COLOCAR DOIS TRAÇOS SEGUIDOS DE UM ESPAÇO: <text style="color:#f79646;">-- ISSO É UM COMENTÁRIO</text></para>
+    <para styleclass="Normal"><text style="color:#f79646;">/* SE O COMENTÁRIO FOR MULTILINHAS O FORMATO É ESSE */</text></para>
+    <para styleclass="Normal">- ASDF</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

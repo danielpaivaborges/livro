@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-13T13:41:20.268-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>OBSERVAÇÕES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">OBSERVAÇÕES</para>
+    </header>
+    <para styleclass="Normal">- CHAVES PRIMÁRIAS NÃO PODEM SER NULAS.</para>
+    <para styleclass="Normal">- PARA ADICIONAR COMENTÁRIOS NO CÓDIGO BASTA COLOCAR DOIS TRAÇOS SEGUIDOS DE UM ESPAÇO: <text style="color:#f79646;">-- ISSO É UM COMENTÁRIO</text></para>
+    <para styleclass="Normal"><text style="color:#f79646;">/* SE O COMENTÁRIO FOR MULTILINHAS O FORMATO É ESSE */</text></para>
+    <para styleclass="Normal">- UTILIZANDO O SINAL DE + É POSSÍVEL ENVIAR INSTRUÇÕES (HINTS) PARA O SERVIDOR COMO NO EXEMPLO ABAIXO, NESTE EXEMPLO, COMO A TABELA É PEQUENA, ESTAMOS INSTRUINDO O SERVIDOR A NÃO USAR O ÍNDICE DA TABELA:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="color:#f79646;">select /*+ no_index(employee idx1) */</text></para>
+    <para styleclass="Normal"><text style="color:#f79646;"> &#160; &#160; &#160; employee_name</text></para>
+    <para styleclass="Normal"><text style="color:#f79646;">from &#160; employee;</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
