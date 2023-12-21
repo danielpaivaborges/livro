@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-15T15:00:51.681-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>TABELAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">TABELAS</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">ALTER TABLE nomedatabela ADD &apos;COLUMN&apos; nome e tipo</text> - ADICIONAR COLUNA NA TABELA;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">ALTER TABLE nomedatabela DROP &apos;COLUMN&apos; nome</text> - REMOVE UMA COLUNA;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">ALTER TABLE nomedatabela MODIFY &apos;COLUMN&apos; nome</text> - MODIFICA UMA COLUNA;</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

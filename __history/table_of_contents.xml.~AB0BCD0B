@@ -14,6 +14,18 @@
     <topicref type="topic" id="452573988729963" build="ALL" modified="2023-11-27T12:54:29.786Z" icon="11" href="CUSTOM-PROPERTIES">
       <caption translate="true">CUSTOM PROPERTIES</caption>
     </topicref>
+    <topicref type="topic" id="452612627580511" build="ALL" modified="2023-12-01T10:05:58.616Z" icon="3">
+      <caption translate="true">DICAS CSS</caption>
+      <topicref type="topic" id="452615550860662" build="ALL" modified="2023-12-01T10:06:07.659Z" icon="0" href="ASPAS-EM-CITACOES">
+        <caption translate="true">ASPAS EM CITAÇÕES</caption>
+      </topicref>
+      <topicref type="topic" id="452612411476602" build="ALL" modified="2023-12-01T10:07:03.332Z" icon="0" href="ADICIONANDO-EMOJIS-EM-LISTAS">
+        <caption translate="true">ADICIONANDO EMOJIS EM LISTAS</caption>
+      </topicref>
+      <topicref type="topic" id="45259919268731" build="ALL" modified="2023-12-01T10:31:08.965Z" icon="0" href="ESCONDENDO-UM-ELEMENTO-QUE-NAO">
+        <caption translate="true">ESCONDENDO UM ELEMENTO QUE NÃO CARREGOU</caption>
+      </topicref>
+    </topicref>
     <topicref type="topic" id="452465223604008" build="ALL" modified="2023-11-24T13:32:53.872Z" icon="11" href="DICAS-UTEIS">
       <caption translate="true">DICAS UTEIS</caption>
     </topicref>
@@ -62,8 +74,29 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="452585694497290" build="ALL" modified="2023-11-28T09:46:19.675Z" icon="0" href="PSEUDO-CLASS-E-PSEUDO-ELEMENT">
+    <topicref type="topic" id="452586916698222" build="ALL" modified="2023-11-28T13:52:35.870Z" icon="1" href="GRID">
+      <caption translate="true">GRID</caption>
+    </topicref>
+    <topicref type="topic" id="452585694497290" build="ALL" modified="2023-11-28T10:27:54.722Z" icon="11" href="PSEUDO-CLASS-E-PSEUDO-ELEMENT">
       <caption translate="true">PSEUDO CLASS E PSEUDO ELEMENT</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="452595316772974" build="ALL" modified="2023-11-29T14:23:40.847Z" icon="1" href="SVG---SCALABLE-VECTOR-GRAPHICS">
+    <caption translate="true">SVG - SCALABLE VECTOR GRAPHICS</caption>
+  </topicref>
+  <topicref type="topic" id="452732157583531" build="ALL" modified="2023-12-13T09:20:58.814Z" icon="0">
+    <caption translate="true">MYSQL</caption>
+    <topicref type="topic" id="452731979226581" build="ALL" modified="2023-12-13T10:01:15.611Z" icon="11" href="COMANDOS-DO-WORKBENCH">
+      <caption translate="true">COMANDOS DO WORKBENCH</caption>
+    </topicref>
+    <topicref type="topic" id="452735302064599" build="ALL" modified="2023-12-13T13:44:15.005Z" icon="11" href="OBSERVACOES">
+      <caption translate="true">OBSERVAÇÕES</caption>
+    </topicref>
+    <topicref type="topic" id="452735433891114" build="ALL" modified="2023-12-13T13:44:34.781Z" icon="11" href="TIPOS-DE-DADOS">
+      <caption translate="true">TIPOS DE DADOS</caption>
+    </topicref>
+    <topicref type="topic" id="452745259149579" build="ALL" modified="2023-12-14T13:20:26.712Z" icon="0" href="COMANDOS-SQL">
+      <caption translate="true">COMANDOS SQL</caption>
     </topicref>
   </topicref>
 </map>

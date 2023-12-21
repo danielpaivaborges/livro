@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-15T13:35:50.491-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>TIPOS DE DADOS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">TIPOS DE DADOS</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">char(x) -</text> aceita caracteres de texto, especiais e números ate 255.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">varchar(x) </text>- aceita caracteres de texto, especiais e números até 65.535.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">tinytext</text> - somente texto até 255.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">mediumtext</text> - apenas texto até 16777215.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">bit(x) </text>- número de 1 a 64 caracteres;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">tinyint(x) </text>- número de 1 a 255 caracteres;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">bool </text>- 0 é falso e qualquer outro valor é verdadeiro;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">int(x)</text> - valores de tamanho maior;</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

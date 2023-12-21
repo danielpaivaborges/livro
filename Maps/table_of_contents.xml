@@ -95,5 +95,32 @@
     <topicref type="topic" id="452735433891114" build="ALL" modified="2023-12-13T13:44:34.781Z" icon="11" href="TIPOS-DE-DADOS">
       <caption translate="true">TIPOS DE DADOS</caption>
     </topicref>
+    <topicref type="topic" id="452745259149579" build="ALL" modified="2023-12-14T13:20:26.712Z" icon="0" href="COMANDOS-SQL">
+      <caption translate="true">COMANDOS SQL</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="452745862080768" build="ALL" modified="2023-12-14T14:01:17.920Z" icon="0">
+    <caption translate="true">SQL</caption>
+    <topicref type="topic" id="452745802244930" build="ALL" modified="2023-12-15T13:04:32.789Z" icon="11" href="INTRODUCAO-E-OBSERVACOES">
+      <caption translate="true">INTRODUÇÃO E DEFINIÇÕES</caption>
+    </topicref>
+    <topicref type="topic" id="452752297024846" build="ALL" modified="2023-12-15T13:04:28.605Z" icon="11" href="COMANDOS-SQL2">
+      <caption translate="true">COMANDOS SQL</caption>
+    </topicref>
+    <topicref type="topic" id="452756800119662" build="ALL" modified="2023-12-15T14:45:11.835Z" icon="11" href="TIPOS-DE-DADOS2">
+      <caption translate="true">TIPOS DE DADOS</caption>
+    </topicref>
+    <topicref type="topic" id="452755073459455" build="ALL" modified="2023-12-15T14:45:32.971Z" icon="11" href="TABELAS">
+      <caption translate="true">TABELAS</caption>
+    </topicref>
+    <topicref type="topic" id="452754285629052" build="ALL" modified="2023-12-18T08:31:31.318Z" icon="11" href="CRUD">
+      <caption translate="true">CRUD</caption>
+    </topicref>
+    <topicref type="topic" id="452783163202836" build="ALL" modified="2023-12-18T08:46:08.309Z" icon="11" href="SELECT">
+      <caption translate="true">SELECT</caption>
+    </topicref>
+    <topicref type="topic" id="452782148249691" build="ALL" modified="2023-12-18T09:25:22.575Z" icon="0" href="FUNCOES">
+      <caption translate="true">FUNÇÕES</caption>
+    </topicref>
   </topicref>
 </map>

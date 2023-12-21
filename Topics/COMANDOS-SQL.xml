@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-14T13:22:03.259-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>COMANDOS SQL</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">COMANDOS SQL</para>
+    </header>
+    <para styleclass="Normal">PARA FAZER UMA CONSULTA DE PLANO CARTESIANO, ONDE OS DADOS DE UMA TABELA SERÃO COLUNAS E CRUZAM DADOS COM OUTRA TABELA PARA COBRIR TODAS AS POSSIBILIDADES DE CRUZAMENTO DE DADOS, DEVEMOS UTILIZAR O cross join COMO NO EXEMPLO ABAIXO:</para>
+    <para styleclass="Normal">use restaurant;</para>
+    <para styleclass="Normal">select m.main_item, s.side_item</para>
+    <para styleclass="Normal">from</para>
+    <para styleclass="Normal">main_dish m</para>
+    <para styleclass="Normal">cross join side_dish s;</para>
+    <para styleclass="Normal">O RESULTADO SERÁ O CRUZAMENTO DOS DADOS DAS DUAS TABELAS</para>
+    <para styleclass="Normal"><image src="clip0098.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-15T15:23:56.617-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>CRUD</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">CRUD</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">create</text> - inserir dados;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">read</text> - ler dados;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">update</text> - atualizar os dados;</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">delete</text> - apagar os dados;</para>
+  </body>
+</topic>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-18T12:47:53.821-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>COMANDOS SQL</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">COMANDOS SQL</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">source nomedobanco </text>- use este comando para importar um banco de dados no servidor, é preciso executar o terminal dentro da pasta onde está o arquivo.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">mysqldump -u root nomedobanco nomedobanco.sql </text>- use este comando para exportar um banco de dados para um arquivo.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">CREATE INDEX indice_nome ON tabela(coluna);</text> - use este comando para criar um indice em uma determinada tabela.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">DROP INDEX indice_nome ON tabela</text> - use este comando para excluir um indice.</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">SELECT gender, COUNT(gender) as &apos;quantidade por gênero&apos; FROM employees GROUP BY gender</text> - use este comando para agrupar totais por tipos de dados diferentes;</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

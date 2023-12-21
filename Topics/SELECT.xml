@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-18T09:00:33.011-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>SELECT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">SELECT</para>
+    </header>
+    <para styleclass="Normal">O <text style="font-weight:bold;">SELECT</text> É O COMANDO MAIS IMPORTANTE DO SQL.</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
