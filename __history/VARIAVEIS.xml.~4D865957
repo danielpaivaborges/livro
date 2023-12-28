@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T09:37:06.654-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>VARIÁVEIS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">VARIÁVEIS</para>
+    </header>
+    <para styleclass="Normal">EM JAVASCRIPT DECLARAMOS VARIÁVEIS COM <text style="font-weight:bold;">VAR</text> OU <text style="font-weight:bold;">LET</text>. NÃO PRECISAMOS OBRIGATORIAMENTE USAR VAR OU LET PARA DECLARAR A VARIÁVEL, MAS É UMA <text style="font-weight:bold;">BOA PRÁTICA DE PROGRAMAÇÃO</text> USAR A PALAVRA CHAVE PARA IDENTIFICAR UMA VARIÁVEL.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0105.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-26T12:40:18.528-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>FUNCOES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">FUNCOES</para>
+    </header>
+    <para styleclass="Normal">PARA CHAMAR UMA FUNÇÃO DENTRO DE UMA INSTRUÇÃO PHP UTILIZAMOS A INSTRUÇÃO <text style="font-weight:bold;">call_user_func</text>:</para>
+    <para styleclass="Normal"><image src="clip0099.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

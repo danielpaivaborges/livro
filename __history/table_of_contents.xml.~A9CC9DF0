@@ -138,16 +138,7 @@
         <topicref type="topic" id="452883016256877" build="ALL" modified="2023-12-28T12:23:04.420Z" icon="12" href="MAP">
           <caption translate="true">MAP</caption>
         </topicref>
-        <topicref type="topic" id="452885283593023" build="ALL" modified="2023-12-28T12:34:15.972Z" icon="12" href="FILTER">
-          <caption translate="true">FILTER</caption>
-        </topicref>
-        <topicref type="topic" id="45288975303929" build="ALL" modified="2023-12-28T14:19:52.262Z" icon="0" href="REDUCE">
-          <caption translate="true">REDUCE</caption>
-        </topicref>
       </topicref>
-    </topicref>
-    <topicref type="topic" id="452887175198869" build="ALL" modified="2023-12-28T12:28:47.660Z" icon="6" href="REPOSITORIO-DE-CODIGOS">
-      <caption translate="true">REPOSITORIO DE CÓDIGOS</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="452732157583531" build="ALL" modified="2023-12-13T09:20:58.814Z" icon="0">

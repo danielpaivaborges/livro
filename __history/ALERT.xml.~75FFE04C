@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T09:24:00.788-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ALERT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ALERT</para>
+    </header>
+    <para styleclass="Normal">O método Window.alert() mostra uma caixa de diálogo de aviso com o conteúdo opcionalmente especificado e um botão OK.</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

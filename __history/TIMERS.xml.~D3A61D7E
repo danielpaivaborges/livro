@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T14:29:17.533-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>TIMERS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">TIMERS</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Image Caption">POR PADRÃO O CÓDIGO EM JAVASCRIPT É EXECUTADO DE FORMA SÍNCRONA.</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">EXISTEM TRES FUNÇÕES PARA NOS AUXILIAR A DAR PAUSA NA EXECUÇÃO SÃO ELES:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1 Black">- setTimeout();</para>
+    <para styleclass="Normal">A função setTimeout nos permite atrasar a execução de algum código. Esta função nos permite especificar qual código executar e quantos milissegundos esperar antes do código que especificamos executa. O intervalo, segundo parametro da função, é em milisegundos.</para>
+    <para styleclass="Normal"><image src="clip0123.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">UM EXEMPLO MAIS COMPLEXO:</para>
+    <para styleclass="Normal"><image src="clip0124.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Heading1 Black">PARA INTERROMPER A EXECUÇÃO UTILIZAMOS A FUNÇÃO<text style="background-color:#ffff00;"> clearTimeout();</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1 Black">- setInterval();</para>
+    <para styleclass="Normal">O método setInterval() oferecido das interfaces Window e Worker, repetem chamadas de funções ou executam trechos de código, com um tempo de espera fixo entre cada chamada. Isso retorna um ID único para o intervalo, podendo remove-lo mais tarde apenas o chamando clearInterval(). </para>
+    <para styleclass="Normal"><image src="clip0125.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Heading1 Black">- requestAnimationFrame();</para>
+    <para styleclass="Heading1 Black"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">asf</text></para>
+  </body>
+</topic>

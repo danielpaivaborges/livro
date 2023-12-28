@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T09:35:29.798-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LINKS UTEIS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LINKS UTEIS</para>
+    </header>
+    <para styleclass="Normal">- SITE DO KIRUPA: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://forum.kirupa.com/</link>&#32;</para>
+    <para styleclass="Normal">- EXERCÍCIOS DO KIRUPA: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.kirupa.com/codingexercises/index.htm</link>&#32;</para>
+    <para styleclass="Normal">- VALIDADOR DE NOMES DE VARIÁVEIS: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://mothereff.in/js-variables</link>&#32;</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

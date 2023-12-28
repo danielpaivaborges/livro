@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T10:19:19.014-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ALERT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ALERT</para>
+    </header>
+    <para styleclass="Normal">O método <text style="font-weight:bold;">Window.alert()</text> mostra uma caixa de diálogo de aviso com o conteúdo opcionalmente especificado (pode ser uma string ou um objeto que pode ser convertido em uma string) e um botão OK. Trata-se de uma função interna dos navegadores.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">EXEMPLO:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">alert(&quot;Mensagem qualquer&quot;);</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

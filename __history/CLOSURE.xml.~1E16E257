@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-28T07:46:24.249-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>CLOSURE</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">CLOSURE</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0129.png" imagestyleclass="Default" scale="48.39%" width="652" height="375" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:justify;"><image src="clip0130.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="Image Caption">NO CASO ACIMA A FUNÇÃO EXTERNA RETORNA A FUNÇÃO INTERNA, DEPOIS É SO INVOCAR O NOME DA VARIÁVEL E A FUNÇÃO INTERNA SERÁ EXECUTADA.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+  </body>
+</topic>

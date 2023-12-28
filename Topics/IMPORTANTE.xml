@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-26T14:12:57.021-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>IMPORTANTE</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">IMPORTANTE</para>
+    </header>
+    <para styleclass="Normal"><text style="background-color:#ffff00;">- EM PHP A INTERPOLAÇÃO DE STRINGS SOMENTE FUNCIONA COM ASPAS DUPLAS.</text></para>
+    <para styleclass="Normal"><text style="background-color:#ffff00;">- COMO OBTER INFORMAÇÕES IMPORTANTES A RESPEITO DO SERVIDOR:</text></para>
+    <para styleclass="Normal"><image src="clip0102.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T10:00:18.948-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>INFORMAÇÕES IMPORTANTES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">INFORMAÇÕES IMPORTANTES</para>
+    </header>
+    <para styleclass="Normal">FUNÇÕES SERVEM PARA REAPROVEITAR E ORGANIZAR MELHOR O CÓDIGO PROGRAMADO.</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

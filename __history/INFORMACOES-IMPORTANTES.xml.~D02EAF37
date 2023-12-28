@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T10:24:54.355-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>INFORMAÇÕES IMPORTANTES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">INFORMAÇÕES IMPORTANTES</para>
+    </header>
+    <para styleclass="Normal">FUNÇÕES SERVEM PARA REAPROVEITAR E ORGANIZAR MELHOR O CÓDIGO PROGRAMADO.</para>
+    <para styleclass="Normal">EXEMPLO DE <text style="font-weight:bold;">FUNÇÃO DE DECLARAÇÃO:</text></para>
+    <para styleclass="Normal"><image src="clip0106.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">EXISTEM TAMBÉM AS <text style="font-weight:bold;">FUNÇÕES DE EXPRESSÃO</text>, QUE RETORNAM O VALOR DE UMA EXPRESSÃO E ATRIBUEM A UMA VARIÁVEL, NORMALMENTE ELAS NÃO TEM NOMES (EMBORAM POSSAM TER POR MOTIVOS DE RECURSIVIDADE OU PARA DEIXAR O CÓDIGO MAIS CLARO) POR ESSE MOTIVO SÃO CHAMADAS DE <text style="font-weight:bold;">FUNÇÕES ANÔNIMAS</text>.</para>
+    <para styleclass="Normal">EXEMPLO DE FUNÇÃO DE EXPRESSÃO:</para>
+    <para styleclass="Normal"><image src="clip0107.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">EXISTEM TAMBEM AS FUNÇÕES DE EXPRESSÃO IMEDIATAMENTE INVOCADAS (Immediately Invoked Function Expression(IIFE)), NO CASO ELAS SÃO CRIADAS E IMEDIATAMENTE INVOCADAS, COMO NO EXEMPLO ABAIXO:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0108.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

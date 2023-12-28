@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-12-27T12:42:18.481-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>DOCUMENT.WRITE</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">DOCUMENT.WRITE</para>
+    </header>
+    <para styleclass="Normal">O método <text style="font-weight:bold;">document.write()</text> grava uma sequência de caracteres em um documento aberto por document.open().</para>
+    <para styleclass="Normal"><image src="clip0114.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">Escrevendo em um documento que já foi carregado sem chamar document.open() (en-US) automaticamente vai chamar document.open. </text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">Ao términno da escrita, é recomendável chamar document.close() para dizer ao navegador para encerrar o carregamento da página. </text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">O texto que você escreve é analisado no modelo de estrutura do documento. </text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">Se chamar document.write() incorporada em uma tag HTML &lt;script&gt; embutida, então document.open() não será chamada, como no exemplo abaixo:</text></para>
+    <para styleclass="Normal"><image src="clip0115.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
