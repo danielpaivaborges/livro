@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-02T14:18:31.277-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>WINDOW</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">WINDOW</para>
+    </header>
+    <para styleclass="Normal">O objeto window representa uma janela aberta em um navegador. Se houver frames na página o navegador criará um objeto window para cada frame.</para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

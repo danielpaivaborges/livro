@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-03T09:37:48.636-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LOCALSTORAGE</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LOCALSTORAGE</para>
+    </header>
+    <para styleclass="Normal"><text style="color:#ff0000;">COMO SALVAR INFORMAÇÕES NO LOCAL STORAGE ATRAVÉS DO NAVEGADOR.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0159.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0160.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

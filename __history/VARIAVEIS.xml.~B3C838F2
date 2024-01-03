@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2024-01-02T10:50:39.232-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2023-12-27T15:30:24.854-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>VARIÁVEIS E CONSTANTES</title>
   <body>
     <header>
@@ -21,15 +21,12 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal">CONSTANTES SÃO DECLARADAS UTILIZANDO A PALAVRA CHAVE <text style="font-weight:bold;">CONST</text>, E SEUS VALORES NÃO PODEM SER ALTERADOS DEPOIS DE DEFINIDOS. O ESCOPO DE CONST É DE BLOCO, IGUAL A LET.</para>
+    <para styleclass="Normal">CONSTANTES SÃO DECLARADAS UTILIZANDO A PALAVRA CHAVE <text style="font-weight:bold;">CONST</text>, E SEUS VALORES NÃO PODEM SER ALTERADOS DEPOIS DE DEFINIDOS.</para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Heading1" style="text-align:center;"></para>
     <para styleclass="Heading1" style="text-align:center;">ESCOPO</para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal">A DECLARAÇÃO COM VAR SERÁ SEMPRE GLOBAL, O <text style="font-weight:bold;">LET</text> TERÁ <text style="font-weight:bold;">ESCOPO DE BLOCO </text>E <text style="font-weight:bold;">DEVERÁ</text> OBRIGATORIAMENTE SER <text style="font-weight:bold;">INICIADA antes de ser utilizada.</text> Variáveis Let não podem ser declaradas mais de uma vez, enquanto que Var aceita ser declarada desta forma.</para>
-    <para styleclass="Normal">VARIÁVEIS &#160;DECLARADAS COM VAR SOFREM HOISTING E PODEM SER USADAS ANTES DE SER INICIADAS. SE A DECLARAÇÃO FOR FEITA COM LET TAMBÉM HÁ O PROCESSO DE HOISTING, ENTRETANTO A VARIÁVEL SÓ SERÁ DECLARADA E NÃO INICIALIZADA.</para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"></para>
+    <para styleclass="Normal">SE NÃO DECLARARMOS A VARIÁVEL COM LET OU VAR O ESCOPO DELA SEMPRE SERÁ GLOBAL.</para>
   </body>
 </topic>

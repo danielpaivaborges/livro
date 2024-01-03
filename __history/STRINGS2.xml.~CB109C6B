@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-02T13:27:37.332-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>STRINGS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">STRINGS</para>
+    </header>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-weight:bold;">INTERPOLAÇÃO</text> - EXISTEM DUAS MANEIRAS DE INTERPOLAR UMA STRING, SÃO ELAS:</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="color:#ff0000;">CONCATENANDO OS VALORES</text></para>
+    <para styleclass="Normal"><image src="clip0103.png" imagestyleclass="Default" scale="97.67%" width="599" height="210" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="color:#ff0000;">OU USANDO TEMPLATE STRINGS (BACKTICKS)</text></para>
+    <para styleclass="Normal"><image src="clip0104.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

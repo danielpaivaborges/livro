@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2024-01-02T10:50:39.232-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2024-01-02T10:47:06.231-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>VARIÁVEIS E CONSTANTES</title>
   <body>
     <header>
@@ -21,7 +21,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal">CONSTANTES SÃO DECLARADAS UTILIZANDO A PALAVRA CHAVE <text style="font-weight:bold;">CONST</text>, E SEUS VALORES NÃO PODEM SER ALTERADOS DEPOIS DE DEFINIDOS. O ESCOPO DE CONST É DE BLOCO, IGUAL A LET.</para>
+    <para styleclass="Normal">CONSTANTES SÃO DECLARADAS UTILIZANDO A PALAVRA CHAVE <text style="font-weight:bold;">CONST</text>, E SEUS VALORES NÃO PODEM SER ALTERADOS DEPOIS DE DEFINIDOS.</para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Heading1" style="text-align:center;"></para>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2024-01-02T15:38:24.644-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2024-01-02T14:19:04.892-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>REPOSITORIO DE CÓDIGOS</title>
   <body>
     <header>
@@ -15,8 +15,5 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Image Caption">3 - PARA RETORNAR O LOCAL ONDE SE ENCONTRA O ARQUIVO DA PÁGINA:</text></para>
     <para styleclass="Normal"><image src="clip0157.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">4- COMO OBTER UMA PROPRIEDADE CSS DE UM ELEMENTO E REPASSAR PARA OUTRO:</text></para>
-    <para styleclass="Normal"><image src="clip0158.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
   </body>
 </topic>

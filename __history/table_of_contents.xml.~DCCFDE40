@@ -122,6 +122,30 @@
         <caption translate="true">DO</caption>
       </topicref>
     </topicref>
+    <topicref type="topic" id="452885331679604" build="ALL" modified="2023-12-28T09:37:22.440Z" icon="1" href="OBJETOS">
+      <caption translate="true">OBJETOS</caption>
+      <topicref type="topic" id="452884865451116" build="ALL" modified="2023-12-28T09:37:49.032Z" icon="11" href="ARRAYS">
+        <caption translate="true">ARRAYS</caption>
+        <topicref type="topic" id="452883016256877" build="ALL" modified="2023-12-28T12:23:04.420Z" icon="12" href="MAP">
+          <caption translate="true">MAP</caption>
+        </topicref>
+        <topicref type="topic" id="452885283593023" build="ALL" modified="2023-12-28T12:34:15.972Z" icon="12" href="FILTER">
+          <caption translate="true">FILTER</caption>
+        </topicref>
+        <topicref type="topic" id="45288975303929" build="ALL" modified="2023-12-28T14:19:52.262Z" icon="0" href="REDUCE">
+          <caption translate="true">REDUCE</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="452933827324425" build="ALL" modified="2024-01-02T10:51:19.776Z" icon="1" href="OBSERVACOES-IMPORTANTES">
+      <caption translate="true">OBSERVAÇÕES IMPORTANTES</caption>
+    </topicref>
+    <topicref type="topic" id="452932739019889" build="ALL" modified="2024-01-02T10:52:19.415Z" icon="1" href="OPERADORES-DE-TIPO">
+      <caption translate="true">OPERADORES DE TIPO</caption>
+    </topicref>
+    <topicref type="topic" id="452887175198869" build="ALL" modified="2023-12-28T12:28:47.660Z" icon="6" href="REPOSITORIO-DE-CODIGOS">
+      <caption translate="true">REPOSITORIO DE CÓDIGOS</caption>
+    </topicref>
     <topicref type="topic" id="452875765946315" build="ALL" modified="2023-12-27T09:16:49.807Z" icon="11" href="STRINGS2">
       <caption translate="true">STRINGS</caption>
     </topicref>
@@ -131,11 +155,8 @@
     <topicref type="topic" id="452873192829996" build="ALL" modified="2023-12-27T09:39:09.313Z" icon="11" href="VARIAVEIS">
       <caption translate="true">VARIÁVEIS E CONSTANTES</caption>
     </topicref>
-    <topicref type="topic" id="452885331679604" build="ALL" modified="2023-12-28T09:37:22.440Z" icon="1" href="OBJETOS">
-      <caption translate="true">OBJETOS</caption>
-      <topicref type="topic" id="452884865451116" build="ALL" modified="2023-12-28T09:37:49.032Z" icon="11" href="ARRAYS">
-        <caption translate="true">ARRAYS</caption>
-      </topicref>
+    <topicref type="topic" id="452934255485970" build="ALL" modified="2024-01-02T12:02:20.801Z" icon="0" href="OPERADOR-DE-COALESCENCIA-NULA">
+      <caption translate="true">OPERADOR DE COALESCENCIA NULA</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="452732157583531" build="ALL" modified="2023-12-13T09:20:58.814Z" icon="0">

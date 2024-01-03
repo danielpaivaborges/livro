@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2024-01-03T15:03:26.834-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2024-01-03T13:24:58.392-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>OBJETOS</title>
   <body>
     <header>
@@ -45,29 +45,10 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="clip0173.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">ALTERANDO CHAVES DURANTE A DESCONSTRUÇÃO DE UM OBJETO</text></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><image src="clip0174.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">OUTRA FORMA, USANDO JSON</text></para>
-    <para styleclass="Normal"><image src="clip0175.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">CRIANDO UM CAMPO PADRÃO QUE NÃO EXISTE NO OBJETO</text></para>
-    <para styleclass="Normal"><image src="clip0176.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">COMO EXTRAIR DADOS ESPECÍFICOS DE UM OBJETO DENTRO DE UMA FUNÇÃO USANDO DESESTRUTURAÇÃO</text></para>
-    <para styleclass="Normal"><image src="clip0177.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">UTILIZANDO O </text><text styleclass="Heading1" style="font-size:14pt;">OPERADOR REST </text><text styleclass="Image Caption">PARA RECUPERAR OS DEMAIS DADOS DO OBJETO DURANTE A DESESTRUTURAÇÃO:</text></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><image src="clip0178.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">UTILIZANDO DESESTRUTURAÇÃO COM ARRAYS</text></para>
-    <para styleclass="Normal"><image src="clip0179.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Image Caption">ELIMINANDO UM ITEM NO RESULTADO FINAL</text></para>
-    <para styleclass="Normal"><image src="clip0180.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
   </body>
