@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-03T15:44:53.116-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>OPTIONAL CHAINING</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">OPTIONAL CHAINING</para>
+    </header>
+    <para styleclass="Normal">AS CHAMADAS DE PROPRIEDADES DE UM OBJETO PODEM SER FEITAS DE FORMA ENCADEADA (CHAINING)</para>
+    <para styleclass="Normal"><image src="clip0182.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">PORÉM, SE POR VENTURA ALGUMA INFORMAÇÃO NÃO EXISTIR DENTRO DO OBJETO VAI SER EMITIDO UM ERRO, POR ISSO DEVEMOS USAR SEMPRE O OPTIONAL CHAINING.</text></para>
+    <para styleclass="Normal"><image src="clip0183.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">A MELHOR MANEIRA DE USAR O OPTIONAL CHAINING É A DEMONSTRADA ABAIXO, COM DUAS INTERROGAÇÕES</text></para>
+    <para styleclass="Normal"><image src="clip0184.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

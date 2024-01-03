@@ -155,6 +155,9 @@
     <topicref type="topic" id="452887175198869" build="ALL" modified="2023-12-28T12:28:47.660Z" icon="6" href="REPOSITORIO-DE-CODIGOS">
       <caption translate="true">REPOSITORIO DE CÓDIGOS</caption>
     </topicref>
+    <topicref type="topic" id="452945388470636" build="ALL" modified="2024-01-03T15:09:22.206Z" icon="12" href="SHORT-SYNTAX">
+      <caption translate="true">SHORT SYNTAX</caption>
+    </topicref>
     <topicref type="topic" id="452875765946315" build="ALL" modified="2023-12-27T09:16:49.807Z" icon="11" href="STRINGS2">
       <caption translate="true">STRINGS</caption>
     </topicref>
@@ -169,6 +172,9 @@
     </topicref>
     <topicref type="topic" id="452943595690913" build="ALL" modified="2024-01-03T10:04:24.342Z" icon="13" href="VITE">
       <caption translate="true">VITE</caption>
+    </topicref>
+    <topicref type="topic" id="452947390708954" build="ALL" modified="2024-01-03T15:37:24.249Z" icon="0" href="OPTIONAL-CHAINING">
+      <caption translate="true">OPTIONAL CHAINING</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="452732157583531" build="ALL" modified="2023-12-13T09:20:58.814Z" icon="0">
