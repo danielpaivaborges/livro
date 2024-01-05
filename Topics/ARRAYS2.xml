@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-04T15:03:35.426-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ARRAYS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ARRAYS</para>
+    </header>
+    <para styleclass="Normal">ARRAYS SÃO CONJUNTOS DE DADOS DENTRO DO JAVASCRIPT, DELIMITADOS POR VÍRGULAS E CONTIDOS ENTRE COLCHETES.</para>
+    <para styleclass="Normal">O ARRAY PODE SER PERCORRIDO DE DIVERSAS FORMAS, VEJAMOS ALGUMAS:</para>
+    <para styleclass="Normal"><image src="clip0187.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">MAPEANDO UM ARRAY</text></para>
+    <para styleclass="Normal"><image src="clip0188.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">FILTRANDO UM ARRAY</text></para>
+    <para styleclass="Normal"><image src="clip0189.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">USANDO O </text><text styleclass="Image Caption" style="font-weight:bold;">EVERY</text><text styleclass="Image Caption"> PARA RETORNAR TRUE SE </text><text styleclass="Image Caption" style="font-weight:bold;">TODOS OS ELEMENTOS</text><text styleclass="Image Caption"> DO ARRAY ATENDEREM A UMA DETERMINADA CONDIÇÃO</text></para>
+    <para styleclass="Normal"><image src="clip0190.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">USANDO O </text><text styleclass="Image Caption" style="font-weight:bold;">SOME</text><text styleclass="Image Caption"> PARA RETORNAR TRUE SE </text><text styleclass="Image Caption" style="font-weight:bold;">PELO MENOS UM ELEMENTO </text><text styleclass="Image Caption">ATENDER A UMA DETERMINADA CONDIÇÃO</text></para>
+    <para styleclass="Normal"><image src="clip0191.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">RESUMÃO DOS MÉTODOS DE ARRAY</text></para>
+    <para styleclass="Normal"><image src="clip0192.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

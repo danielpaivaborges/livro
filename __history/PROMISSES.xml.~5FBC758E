@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-01-04T15:36:37.210-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>PROMISSES</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">PROMISSES</para>
+    </header>
+    <para styleclass="Normal">PROMISSES SÃO CÓDIGOS CUJA EXECUÇÃO NÃO É IMEDIATA, POR EXEMPLO:</para>
+    <para styleclass="Normal"><image src="clip0193.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

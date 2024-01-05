@@ -81,8 +81,11 @@
       <caption translate="true">MANUAL GIT E GIT HUB</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="452873207054180" build="ALL" modified="2023-12-27T08:26:32.844Z" icon="0">
+  <topicref type="topic" id="452873207054180" build="ALL" modified="2024-01-04T13:58:35.814Z" icon="0">
     <caption translate="true">JAVASCRIPT</caption>
+    <topicref type="topic" id="452954489338430" build="ALL" modified="2024-01-04T15:04:17.557Z" icon="11" href="ARRAYS2">
+      <caption translate="true">ARRAYS</caption>
+    </topicref>
     <topicref type="topic" id="452874861247334" build="ALL" modified="2023-12-27T15:31:26.032Z" icon="11" href="CLOSURE">
       <caption translate="true">CLOSURE</caption>
     </topicref>
@@ -110,6 +113,9 @@
     <topicref type="topic" id="452873923202077" build="ALL" modified="2023-12-27T09:16:45.224Z" icon="11" href="LINKS-UTEIS">
       <caption translate="true">LINKS UTEIS</caption>
     </topicref>
+    <topicref type="topic" id="452945351869359" build="ALL" modified="2024-01-03T09:33:32.159Z" icon="11" href="LOCALSTORAGE">
+      <caption translate="true">LOCALSTORAGE</caption>
+    </topicref>
     <topicref type="topic" id="452876049096877" build="ALL" modified="2023-12-27T12:42:34.364Z" icon="1">
       <caption translate="true">LOOPINGS</caption>
       <topicref type="topic" id="452876477986620" build="ALL" modified="2023-12-27T12:34:30.084Z" icon="11" href="FOR">
@@ -132,16 +138,31 @@
         <topicref type="topic" id="452885283593023" build="ALL" modified="2023-12-28T12:34:15.972Z" icon="12" href="FILTER">
           <caption translate="true">FILTER</caption>
         </topicref>
-        <topicref type="topic" id="45288975303929" build="ALL" modified="2023-12-28T14:19:52.262Z" icon="0" href="REDUCE">
+        <topicref type="topic" id="45288975303929" build="ALL" modified="2024-01-02T13:44:22.368Z" icon="12" href="REDUCE">
           <caption translate="true">REDUCE</caption>
         </topicref>
       </topicref>
+      <topicref type="topic" id="452934502382324" build="ALL" modified="2024-01-02T13:44:09.743Z" icon="11" href="WINDOW">
+        <caption translate="true">WINDOW</caption>
+      </topicref>
     </topicref>
-    <topicref type="topic" id="452933827324425" build="ALL" modified="2024-01-02T10:51:19.776Z" icon="1" href="OBSERVACOES-IMPORTANTES">
+    <topicref type="topic" id="452933827324425" build="ALL" modified="2024-01-02T12:13:02.688Z" icon="11" href="OBSERVACOES-IMPORTANTES">
       <caption translate="true">OBSERVAÇÕES IMPORTANTES</caption>
+    </topicref>
+    <topicref type="topic" id="452934255485970" build="ALL" modified="2024-01-02T12:12:45.952Z" icon="11" href="OPERADOR-DE-COALESCENCIA-NULA">
+      <caption translate="true">OPERADOR DE COALESCENCIA NULA</caption>
+    </topicref>
+    <topicref type="topic" id="452932739019889" build="ALL" modified="2024-01-02T12:12:55.735Z" icon="11" href="OPERADORES-DE-TIPO">
+      <caption translate="true">OPERADORES DE TIPO</caption>
+    </topicref>
+    <topicref type="topic" id="452947390708954" build="ALL" modified="2024-01-04T15:04:29.414Z" icon="11" href="OPTIONAL-CHAINING">
+      <caption translate="true">OPTIONAL CHAINING</caption>
     </topicref>
     <topicref type="topic" id="452887175198869" build="ALL" modified="2023-12-28T12:28:47.660Z" icon="6" href="REPOSITORIO-DE-CODIGOS">
       <caption translate="true">REPOSITORIO DE CÓDIGOS</caption>
+    </topicref>
+    <topicref type="topic" id="452945388470636" build="ALL" modified="2024-01-03T15:09:22.206Z" icon="12" href="SHORT-SYNTAX">
+      <caption translate="true">SHORT SYNTAX</caption>
     </topicref>
     <topicref type="topic" id="452875765946315" build="ALL" modified="2023-12-27T09:16:49.807Z" icon="11" href="STRINGS2">
       <caption translate="true">STRINGS</caption>
@@ -149,8 +170,14 @@
     <topicref type="topic" id="452876743374872" build="ALL" modified="2023-12-27T14:28:20.377Z" icon="11" href="TIMERS">
       <caption translate="true">TIMERS</caption>
     </topicref>
+    <topicref type="topic" id="452933142118343" build="ALL" modified="2024-01-02T12:53:07.096Z" icon="11" href="TIPOS-DE-DADOS3">
+      <caption translate="true">TIPOS DE DADOS</caption>
+    </topicref>
     <topicref type="topic" id="452873192829996" build="ALL" modified="2023-12-27T09:39:09.313Z" icon="11" href="VARIAVEIS">
       <caption translate="true">VARIÁVEIS E CONSTANTES</caption>
+    </topicref>
+    <topicref type="topic" id="452943595690913" build="ALL" modified="2024-01-03T10:04:24.342Z" icon="13" href="VITE">
+      <caption translate="true">VITE</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="452732157583531" build="ALL" modified="2023-12-13T09:20:58.814Z" icon="0">

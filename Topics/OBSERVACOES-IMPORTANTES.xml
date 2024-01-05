@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2024-01-02T10:51:45.951-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2024-01-04T15:21:57.954-03:00" lasteditedby="danie" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>OBSERVAÇÕES IMPORTANTES</title>
   <body>
     <header>
       <para styleclass="Heading1">OBSERVAÇÕES IMPORTANTES</para>
     </header>
     <para styleclass="Normal">- SOMAR STRING COM NUMEROS VAI RETORNAR UMA STRING SEMPRE.</para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://roadmap.sh/javascript</link> - ROADMAP JAVASCRIPT</para>
     <para styleclass="Normal"></para>
   </body>
 </topic>
